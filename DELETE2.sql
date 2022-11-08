@@ -1,1 +1,1 @@
-DELETE FROM tabela_de_vendedores WHERE matricula = '0233';
+DELETE FROM tabela_de_vendedores WHERE matricula = '00233';
