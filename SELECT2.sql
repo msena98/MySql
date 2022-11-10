@@ -1,0 +1,1 @@
+SELECT CPF, NOME FROM tbcliente;
