@@ -1,0 +1,1 @@
+SELECT * FROM tbcliente WHERE CIDADE = 'Rio de Janeiro' OR CIDADE = 'São Paulo';
